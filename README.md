@@ -7,6 +7,6 @@ copy the link and get the encrypted download link using *get_ecshop_link*.
 ![Demo](static/snapshot22.png "Demo")
 
 Then you can copy the download link and open/download using any browser.
-![Download it](static/snapshop23.png "Download it")
+![Download it](static/snapshot23.png "Download it")
 
 ### Happy hacking ###
