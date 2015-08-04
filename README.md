@@ -5,3 +5,8 @@ Just download it
 * For example, if you want to download an attachment from site bbs.shop.com but you were redirected to somewhere. Now you just need to 
 copy the link and get the encrypted download link using *get_ecshop_link*.
 ![Demo](static/snapshot22.png "Demo")
+
+Then you can copy the download link and open/download using any browser.
+![Download it](static/snapshop23.png "Download it")
+
+### Happy hacking ###
